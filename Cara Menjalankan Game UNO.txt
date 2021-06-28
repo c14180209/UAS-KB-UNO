@@ -1,0 +1,5 @@
+1. Buka command prompt run as administrator
+2. Perlu menginstal pygame menggunakan command py -m pip install pygame
+3. input di command prompt cd [path location py-UNO-master]
+4. kemudian ketik python PY_UNO.py dan enter
+5. Selamat Mencoba :)
